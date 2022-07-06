@@ -1,0 +1,66 @@
+I did the third or fourth contribution in iden3 circuits.
+
+Follows the Contribution hash for each circuit.
+
+I just run it in my computer with the last snarkJS branch.
+For the entropy just smashed keyboard plus some blockhashes
+
+Date:
+
+Leon, June 17th, 2022
+
+Marcelino Garcia
+
+Contribution Hashes:
+
+auth:
+
+[INFO]  snarkJS: Circuit Hash: 
+		f4bd47fb 6a1ac36d 78d978ac 3ad939b1
+		6eeb8408 1370a4bc 5d5d7d41 38d20bc2
+		12ce416f d8e482b4 3fdb6849 82fe076b
+		e8406cd4 161a7061 a941b1ac 2716d4e1
+[INFO]  snarkJS: Contribution Hash: 
+		d86f0497 75ab5f5b 157fef3a 60954955
+		6a84a1cc 0386ffff ca722724 9ccdceeb
+		1d720248 24bd293b 5eb510f0 85f3c647
+		f20eb28c 2755de9b 9967d3af 33cb2f22
+
+credentialAtomicQueryMTP:
+
+[INFO]  snarkJS: Circuit Hash: 
+		49042fdd 3adbfeff b058f1af 4fe95067
+		3af138eb 51aa79dc cce5c760 3d88e732
+		91bdbe26 d77cd82d 58d7cece c145d3b0
+		c378cd07 a51f5600 af74ae0a d47312f5
+[INFO]  snarkJS: Contribution Hash: 
+		5583f150 f9b50d79 b0d1b389 5b020dd2
+		b702850a cb3cc104 8aa7d04d efa299e7
+		90a0a114 7054fa87 4f06ded6 b0f78af8
+		7c90e861 bbd45335 ac1ba616 81489093
+
+credentialAtomicQuerySig:
+
+[INFO]  snarkJS: Circuit Hash: 
+		c7b39711 b8911de2 e45277fc 9b5211a6
+		2d6830a8 ff56a020 f9e336f8 3e13fcf6
+		161922ee 50cc07fc 9f9414af bf18c8f4
+		fe0fb6cc 395e1a1d 57fa2d96 0daecef2
+[INFO]  snarkJS: Contribution Hash: 
+		ca8d6e90 26960a14 0a5f9130 40a19662
+		6d3106db fcb60d1f e5d9accf a9432b40
+		cc4f7666 c900f7bb 27f18cd8 29802ec0
+		5551ee04 8996fe7a 0d34404e bae0e3bd
+
+State transition:
+
+[INFO]  snarkJS: Circuit Hash: 
+		11f430d7 ea9f1522 b83d06f3 c8b3d1fb
+		c05f54eb 5be4e291 9af320e2 a6afcfa7
+		28fe5c14 24ea1c47 8908ab51 d3e9fcdc
+		03e6e2d6 772435de e5f955b7 b729564b
+[INFO]  snarkJS: Contribution Hash: 
+		9c5a4d43 12e56209 16138a6a ffc1360f
+		dbce4593 b83bd217 8c57c65f 61f44096
+		5dac3968 08b27aea cb3129cb 98b46e18
+		de70398b dd9994e5 1778de67 c16d3bab
