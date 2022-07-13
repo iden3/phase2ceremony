@@ -29,13 +29,16 @@ For verifying the ceremony see: [VERIFY.md](VERIFY.md)
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `1c8ba4e4 4505813b c3b7f29d 2d82a271`<br>`2580331a cfab2660 c10f3237 348eca61`<br>`b9893f73 ae8aee4b 7c89f362 6da7215b`<br>`4d4c518e 6324a825 07d53df4 50df2554` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit_final.zkey)
-Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/verification_key.json)
-WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit.wasm)
 
 b2sum:
 ````
 89b701bc336eba5d9631cfb4b9c2e5ebf73ab4c7dc99d7e36517274b20e013de5462d13f603d24cb5f7fee8ca338143962781ddc678fd95ad480ec17d5755dbf
 ````
+
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/verification_key.json)
+
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit.wasm)
+
 
 ### CredentialAtomicQueryMTP Circuit
 
@@ -69,13 +72,15 @@ b2sum:
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `f6264ee6 888fcfd7 88e64dc0 7155f500`<br>`84c3db99 b71e991d f91ae425 c51371b7`<br>`cf4499e4 656de16d a9efd08f d92fd74f`<br>`613b65dd 7efc7bca e4e73a12 ff30c11e` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit_final.zkey)
-Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/verification_key.json)
-WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit.wasm)
 
 b2sum:
 ````
 63dd7d253adbf6e3dd4826f1f3d648db9b8f6c15d29d0fd65c9889b48572375017279e731aae7ce51347c323f663c7fd34daccc9ed254286e808721244783e81
 ````
+
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/verification_key.json)
+
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit.wasm)
 
 ### StateTransition Circuit
 
@@ -89,11 +94,12 @@ b2sum:
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `c7154a84 99149018 adc1cd13 18a5cfb3`<br>`6abdf7d4 130800ec a13be95d 472e7b6d`<br>`f921b07e e4966274 3b250229 69c60fab`<br>`2e827151 25f9fa35 1473cfed c3c131b5` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit_final.zkey)
-Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/verification_key.json)
-WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit.wasm)
 
 b2sum:
 ````
 ec796cdc1c03980b7f7f904c58ecbd347b27223ca3fe3a523f1f1bae6d00407c7630f3bee59ecb6ea75f7b6d8695fc339a6415a272bdd2b087cb99a2cb62e0f9
 ````
 
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/verification_key.json)
+
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit.wasm)
