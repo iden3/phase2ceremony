@@ -29,6 +29,8 @@ For verifying the ceremony see: [VERIFY.md](VERIFY.md)
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `1c8ba4e4 4505813b c3b7f29d 2d82a271`<br>`2580331a cfab2660 c10f3237 348eca61`<br>`b9893f73 ae8aee4b 7c89f362 6da7215b`<br>`4d4c518e 6324a825 07d53df4 50df2554` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit_final.zkey)
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/verification_key.json)
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/auth/circuit.wasm)
 
 b2sum:
 ````
@@ -47,6 +49,8 @@ b2sum:
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQueryMTP/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `446bf29a 8d0b1733 01aad925 ae7aef49`<br>`264af120 0f4eff85 4d5bb41f ff0a1c99`<br>`e43a5475 4f2e244d 90d82d56 f25b3bcb`<br>`c1c2e669 dcbfa35b 4d0cbae0 e0d31b6f` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQueryMTP/circuit_final.zkey)
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQueryMTP/verification_key.json)
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQueryMTP/circuit.wasm)
 
 b2sum:
 ````
@@ -65,6 +69,8 @@ b2sum:
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `f6264ee6 888fcfd7 88e64dc0 7155f500`<br>`84c3db99 b71e991d f91ae425 c51371b7`<br>`cf4499e4 656de16d a9efd08f d92fd74f`<br>`613b65dd 7efc7bca e4e73a12 ff30c11e` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit_final.zkey)
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/verification_key.json)
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/credentialAtomicQuerySig/circuit.wasm)
 
 b2sum:
 ````
@@ -83,6 +89,8 @@ b2sum:
 | [0005_Dmytro_Sukhyi](https://github.com/iden3/phase2ceremony/tree/main/0005_Dmytro_Sukhyi)             | [circuit_0005.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit_0005.zkey) | [dimasu](https://keybase.io/dimasu)         | `c7154a84 99149018 adc1cd13 18a5cfb3`<br>`6abdf7d4 130800ec a13be95d 472e7b6d`<br>`f921b07e e4966274 3b250229 69c60fab`<br>`2e827151 25f9fa35 1473cfed c3c131b5` |
 
 Final zkey: [circuit_final.zkey](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit_final.zkey)
+Verification Key: [verification_key.json](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/verification_key.json)
+WASM Witness Generator: [circuit.wasm](https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/circuits/v0.1.0/stateTransition/circuit.wasm)
 
 b2sum:
 ````
